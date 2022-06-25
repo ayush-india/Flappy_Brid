@@ -1,0 +1,3 @@
+/home/ayu/Code/random/AutoFlappy/CMakeFiles/rebuild_cache.dir
+/home/ayu/Code/random/AutoFlappy/CMakeFiles/edit_cache.dir
+/home/ayu/Code/random/AutoFlappy/CMakeFiles/AutoFlappy.dir

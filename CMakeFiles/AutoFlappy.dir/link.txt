@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/AutoFlappy.dir/src/main.cpp.o CMakeFiles/AutoFlappy.dir/src/utils.cpp.o  -o AutoFlappy  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 -lpthread /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1 
